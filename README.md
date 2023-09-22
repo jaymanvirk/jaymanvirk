@@ -7,5 +7,7 @@
 - 🤖 Working on a artificial language tutor project
 - 🌵 Learning Hadoop, Spark and GCP
 - 🗿 Trying new certificates in DS
-- 📫 How to reach me: [Email](mailto:jay.manvirk@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaymanvirk)
+- 📫 How to reach me:
+- Email: jay.manvirk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jaymanvirk
 
