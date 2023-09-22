@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🐤 7+ years working as a Data Scientist
+- 🐤 7+ years of working as a Data Scientist
 - 📚 Currently pursuing a Master's in Data Science at CU Boulder
 - 🤖 Working on a artificial language tutor project
 - 🌵 Learning Hadoop, Spark and GCP
