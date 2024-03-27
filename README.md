@@ -4,4 +4,4 @@
 
 - 📚 Currently pursuing a Master's in Data Science at CU Boulder
 - 🎃 Working on a voice bot
-- 🗿 Trying new certificates in DS
+- 🗿 Trying new courses in DS
